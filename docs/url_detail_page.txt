@@ -1,0 +1,23 @@
+<div class="kboard-content" itemprop="description">
+				<div class="content-view">
+										<b>목사 장립</b><b>(</b><b>안수</b><b>) </b><b>확인서</b>				</div>
+			</div>
+			
+			<div class="kboard-document-action">
+									<div class="left">
+						<button type="button" class="kboard-button-action kboard-button-like" onclick="kboard_document_like(this)" data-uid="617" title="좋아요">좋아요 <span class="kboard-document-like-count">0</span></button>
+						<button type="button" class="kboard-button-action kboard-button-unlike" onclick="kboard_document_unlike(this)" data-uid="617" title="싫어요">싫어요 <span class="kboard-document-unlike-count">0</span></button>
+					</div>
+								<div class="right">
+					<button type="button" class="kboard-button-action kboard-button-print" onclick="kboard_document_print('http://xn--289an1ae8c3xa996k.kr/?action=kboard_document_print&uid=617')" title="인쇄">인쇄</button>
+				</div>
+			</div>
+			
+						<div class="kboard-attach">
+								<button type="button" class="kboard-button-action kboard-button-download" onclick="window.location.href='/?pageid=1&page_id=11070&uid=617&action=kboard_file_download&kboard-file-download-nonce=cc0c76a6f1&file=file1'" title="다운로드 m-27.hwp">m-27.hwp</button>
+							</div>
+					</div>
+
+
+http://xn--289an1ae8c3xa996k.kr/
+

@@ -1,0 +1,273 @@
+</div>	<!-- 카테고리 끝 -->
+	
+	<!-- 리스트 시작 -->
+	<div class="kboard-list">
+		<table>
+			<thead>
+				<tr>
+					<td class="kboard-list-uid">번호</td>
+					<td class="kboard-list-title">제목</td>
+					<td class="kboard-list-user">작성자</td>
+					<td class="kboard-list-date">작성일</td>
+					<td class="kboard-list-vote">추천</td>
+					<td class="kboard-list-view">조회</td>
+				</tr>
+			</thead>
+			<tbody>
+								<tr class="kboard-list-notice">
+					<td class="kboard-list-uid">공지사항</td>
+					<td class="kboard-list-title">
+						<a href="/?pageid=1&#038;page_id=11070&#038;mod=document&#038;uid=612">
+							<div class="kboard-default-cut-strings">
+																								여기를 필독하시고 이용해 주시면 감사하겠습니다.								<span class="kboard-comments-count"></span>
+							</div>
+						</a>
+						<div class="kboard-mobile-contents">
+							<span class="contents-item kboard-user">Admin</span>
+							<span class="contents-separator kboard-date">|</span>
+							<span class="contents-item kboard-date">2024.04.20</span>
+							<span class="contents-separator kboard-vote">|</span>
+							<span class="contents-item kboard-vote">추천 0</span>
+							<span class="contents-separator kboard-view">|</span>
+							<span class="contents-item kboard-view">조회 347</span>
+						</div>
+					</td>
+					<td class="kboard-list-user">Admin</td>
+					<td class="kboard-list-date">2024.04.20</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">347</td>
+				</tr>
+																<tr class="">
+					<td class="kboard-list-uid">114</td>
+					<td class="kboard-list-title">
+						<a href="/?pageid=1&#038;page_id=11070&#038;mod=document&#038;uid=617">
+							<div class="kboard-default-cut-strings">
+																								목사 장립(안수) 확인서								<span class="kboard-comments-count"></span>
+							</div>
+						</a>
+						<div class="kboard-mobile-contents">
+							<span class="contents-item kboard-user">Admin</span>
+							<span class="contents-separator kboard-date">|</span>
+							<span class="contents-item kboard-date">2024.08.20</span>
+							<span class="contents-separator kboard-vote">|</span>
+							<span class="contents-item kboard-vote">추천 0</span>
+							<span class="contents-separator kboard-view">|</span>
+							<span class="contents-item kboard-view">조회 218</span>
+						</div>
+					</td>
+					<td class="kboard-list-user">Admin</td>
+					<td class="kboard-list-date">2024.08.20</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">218</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">113</td>
+					<td class="kboard-list-title">
+						<a href="/?pageid=1&#038;page_id=11070&#038;mod=document&#038;uid=613">
+							<div class="kboard-default-cut-strings">
+																								(예시) 제 50 회기 서기(남경기목사) 자료실								<span class="kboard-comments-count"></span>
+							</div>
+						</a>
+						<div class="kboard-mobile-contents">
+							<span class="contents-item kboard-user">Admin</span>
+							<span class="contents-separator kboard-date">|</span>
+							<span class="contents-item kboard-date">2024.04.20</span>
+							<span class="contents-separator kboard-vote">|</span>
+							<span class="contents-item kboard-vote">추천 0</span>
+							<span class="contents-separator kboard-view">|</span>
+							<span class="contents-item kboard-view">조회 258</span>
+						</div>
+					</td>
+					<td class="kboard-list-user">Admin</td>
+					<td class="kboard-list-date">2024.04.20</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">258</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">112</td>
+					<td class="kboard-list-title">
+						<a href="/?pageid=1&#038;page_id=11070&#038;mod=document&#038;uid=599">
+							<div class="kboard-default-cut-strings">
+																								남경기노회 Logo 파일.								<span class="kboard-comments-count"></span>
+							</div>
+						</a>
+						<div class="kboard-mobile-contents">
+							<span class="contents-item kboard-user">Admin</span>
+							<span class="contents-separator kboard-date">|</span>
+							<span class="contents-item kboard-date">2023.05.22</span>
+							<span class="contents-separator kboard-vote">|</span>
+							<span class="contents-item kboard-vote">추천 0</span>
+							<span class="contents-separator kboard-view">|</span>
+							<span class="contents-item kboard-view">조회 422</span>
+						</div>
+					</td>
+					<td class="kboard-list-user">Admin</td>
+					<td class="kboard-list-date">2023.05.22</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">422</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">111</td>
+					<td class="kboard-list-title">
+						<a href="/?pageid=1&#038;page_id=11070&#038;mod=document&#038;uid=576">
+							<div class="kboard-default-cut-strings">
+																								임시노회 회의 순서지 양식(Edit by 이원희)								<span class="kboard-comments-count"></span>
+							</div>
+						</a>
+						<div class="kboard-mobile-contents">
+							<span class="contents-item kboard-user">admin</span>
+							<span class="contents-separator kboard-date">|</span>
+							<span class="contents-item kboard-date">2021.05.25</span>
+							<span class="contents-separator kboard-vote">|</span>
+							<span class="contents-item kboard-vote">추천 0</span>
+							<span class="contents-separator kboard-view">|</span>
+							<span class="contents-item kboard-view">조회 472</span>
+						</div>
+					</td>
+					<td class="kboard-list-user">admin</td>
+					<td class="kboard-list-date">2021.05.25</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">472</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">110</td>
+					<td class="kboard-list-title">
+						<a href="/?pageid=1&#038;page_id=11070&#038;mod=document&#038;uid=575">
+							<div class="kboard-default-cut-strings">
+																								(봄) 정기노회 소집의 건 통지 양식 서류								<span class="kboard-comments-count"></span>
+							</div>
+						</a>
+						<div class="kboard-mobile-contents">
+							<span class="contents-item kboard-user">admin</span>
+							<span class="contents-separator kboard-date">|</span>
+							<span class="contents-item kboard-date">2021.05.15</span>
+							<span class="contents-separator kboard-vote">|</span>
+							<span class="contents-item kboard-vote">추천 0</span>
+							<span class="contents-separator kboard-view">|</span>
+							<span class="contents-item kboard-view">조회 425</span>
+						</div>
+					</td>
+					<td class="kboard-list-user">admin</td>
+					<td class="kboard-list-date">2021.05.15</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">425</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">109</td>
+					<td class="kboard-list-title">
+						<a href="/?pageid=1&#038;page_id=11070&#038;mod=document&#038;uid=574">
+							<div class="kboard-default-cut-strings">
+																								(가을) 정기노회 소집의 건 통지 양식 서류								<span class="kboard-comments-count"></span>
+							</div>
+						</a>
+						<div class="kboard-mobile-contents">
+							<span class="contents-item kboard-user">admin</span>
+							<span class="contents-separator kboard-date">|</span>
+							<span class="contents-item kboard-date">2021.05.15</span>
+							<span class="contents-separator kboard-vote">|</span>
+							<span class="contents-item kboard-vote">추천 0</span>
+							<span class="contents-separator kboard-view">|</span>
+							<span class="contents-item kboard-view">조회 396</span>
+						</div>
+					</td>
+					<td class="kboard-list-user">admin</td>
+					<td class="kboard-list-date">2021.05.15</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">396</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">108</td>
+					<td class="kboard-list-title">
+						<a href="/?pageid=1&#038;page_id=11070&#038;mod=document&#038;uid=573">
+							<div class="kboard-default-cut-strings">
+																								임시노회 소집의 건 양식 서류								<span class="kboard-comments-count"></span>
+							</div>
+						</a>
+						<div class="kboard-mobile-contents">
+							<span class="contents-item kboard-user">admin</span>
+							<span class="contents-separator kboard-date">|</span>
+							<span class="contents-item kboard-date">2021.05.15</span>
+							<span class="contents-separator kboard-vote">|</span>
+							<span class="contents-item kboard-vote">추천 0</span>
+							<span class="contents-separator kboard-view">|</span>
+							<span class="contents-item kboard-view">조회 390</span>
+						</div>
+					</td>
+					<td class="kboard-list-user">admin</td>
+					<td class="kboard-list-date">2021.05.15</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">390</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">107</td>
+					<td class="kboard-list-title">
+						<a href="/?pageid=1&#038;page_id=11070&#038;mod=document&#038;uid=572">
+							<div class="kboard-default-cut-strings">
+																								노회원에게 보내는 공지 양식 서류								<span class="kboard-comments-count"></span>
+							</div>
+						</a>
+						<div class="kboard-mobile-contents">
+							<span class="contents-item kboard-user">admin</span>
+							<span class="contents-separator kboard-date">|</span>
+							<span class="contents-item kboard-date">2021.05.15</span>
+							<span class="contents-separator kboard-vote">|</span>
+							<span class="contents-item kboard-vote">추천 0</span>
+							<span class="contents-separator kboard-view">|</span>
+							<span class="contents-item kboard-view">조회 395</span>
+						</div>
+					</td>
+					<td class="kboard-list-user">admin</td>
+					<td class="kboard-list-date">2021.05.15</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">395</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">106</td>
+					<td class="kboard-list-title">
+						<a href="/?pageid=1&#038;page_id=11070&#038;mod=document&#038;uid=312">
+							<div class="kboard-default-cut-strings">
+																								위임목사 위임 예정일 진술서								<span class="kboard-comments-count"></span>
+							</div>
+						</a>
+						<div class="kboard-mobile-contents">
+							<span class="contents-item kboard-user">admin</span>
+							<span class="contents-separator kboard-date">|</span>
+							<span class="contents-item kboard-date">2016.10.02</span>
+							<span class="contents-separator kboard-vote">|</span>
+							<span class="contents-item kboard-vote">추천 0</span>
+							<span class="contents-separator kboard-view">|</span>
+							<span class="contents-item kboard-view">조회 545</span>
+						</div>
+					</td>
+					<td class="kboard-list-user">admin</td>
+					<td class="kboard-list-date">2016.10.02</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">545</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">105</td>
+					<td class="kboard-list-title">
+						<a href="/?pageid=1&#038;page_id=11070&#038;mod=document&#038;uid=304">
+							<div class="kboard-default-cut-strings">
+																								시무 목사 시무기간 연기 청원서								<span class="kboard-comments-count"></span>
+							</div>
+						</a>
+						<div class="kboard-mobile-contents">
+							<span class="contents-item kboard-user">admin</span>
+							<span class="contents-separator kboard-date">|</span>
+							<span class="contents-item kboard-date">2016.08.31</span>
+							<span class="contents-separator kboard-vote">|</span>
+							<span class="contents-item kboard-vote">추천 0</span>
+							<span class="contents-separator kboard-view">|</span>
+							<span class="contents-item kboard-view">조회 542</span>
+						</div>
+					</td>
+					<td class="kboard-list-user">admin</td>
+					<td class="kboard-list-date">2016.08.31</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">542</td>
+				</tr>
+											</tbody>
+		</table>
+	</div>
+	<!-- 리스트 끝 -->
