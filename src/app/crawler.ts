@@ -90,7 +90,14 @@ export async function fetchAllListPages(listUrl: string): Promise<{
   let lastPage = null;
   while (hasNext) {
     const url = `${baseUrl}?${pageParamName}=${page}&page_id=${pageId}&mod=list`;
-    const res = await axios.get(url);
+    const res = await axios.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+      }
+    });
+    console.log('fetchAllListPages fetch status:', res.status, url);
+    console.log('fetchAllListPages fetch body:', String(res.data).slice(0, 500));
     const $ = cheerio.load(res.data);
     const rows: { id: string; number: number; title: string; detailUrl: string }[] = [];
     $('.kboard-list tbody tr').each((_, el) => {
